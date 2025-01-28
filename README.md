@@ -3,6 +3,7 @@ A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoade
 
 This mod enables the ability using the number keys to spawn out tools in VR.
 This mod has no configuration values.
+Inspired by @Chundelac
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
