@@ -8,7 +8,7 @@ using System.Reflection;
 
 namespace EnableToolspawnInVR;
 public class EnableToolspawnInVR : ResoniteMod {
-    internal const string VERSION_CONSTANT = "1.0.0"; //Changing the version here updates it in all locations needed
+    internal const string VERSION_CONSTANT = "1.0.1"; //Changing the version here updates it in all locations needed
     public override string Name => "Enable Toolspawn in VR";
     public override string Author => "ErrorJan";
     public override string Version => VERSION_CONSTANT;

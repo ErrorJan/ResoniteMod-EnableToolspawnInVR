@@ -3,7 +3,7 @@
 		<RootNamespace>EnableToolspawnInVR</RootNamespace>
 		<AssemblyName>EnableToolspawnInVR</AssemblyName>
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-		<TargetFramework>net472</TargetFramework>
+		<TargetFramework>net9.0</TargetFramework>
 		<FileAlignment>512</FileAlignment>
 		<LangVersion>10.0</LangVersion>
 		<Nullable>enable</Nullable>
@@ -32,7 +32,7 @@
 			<Private>False</Private>
 		</Reference>
 		<Reference Include="FrooxEngine">
-		    <HintPath>$(ResonitePath)Resonite_Data\Managed\FrooxEngine.dll</HintPath>
+		    <HintPath>$(ResonitePath)FrooxEngine.dll</HintPath>
 		    <Private>False</Private>
 		</Reference>
 	</ItemGroup>
